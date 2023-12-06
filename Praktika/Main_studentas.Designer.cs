@@ -72,6 +72,8 @@
             this.ClientSize = new System.Drawing.Size(478, 270);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Main_studentas";
             this.Text = "Main_studentas";
             this.Load += new System.EventHandler(this.Main_studentas_Load);

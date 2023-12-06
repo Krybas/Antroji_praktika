@@ -53,9 +53,9 @@
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(2)))), ((int)(((byte)(62)))), ((int)(((byte)(138)))));
             this.label2.Location = new System.Drawing.Point(12, 63);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(253, 20);
+            this.label2.Size = new System.Drawing.Size(234, 20);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Įveskite norimo ištrinti dėstytojo ID:";
+            this.label2.Text = "Įveskite norimo ištrinti dalyko ID:";
             // 
             // textBox1
             // 
